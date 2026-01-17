@@ -1,0 +1,5 @@
+{
+  "name": "Bangladesh Seasonal UI",
+  "description": "A dynamic React application showcasing the six seasons of Bangladesh with automated tree visuals, weather effects, and day/night transitions.",
+  "requestFramePermissions": []
+}
